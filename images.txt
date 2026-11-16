@@ -18,7 +18,4 @@
 #nacos/nacos-server:v3.0.1
 #postgres:16.16
 #postgres:18.7
-openjdk:8
-openjdk:17
-openjdk:21
-openjdk:25
+eclipse-temurin:8-jdk
