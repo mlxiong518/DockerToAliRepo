@@ -18,6 +18,6 @@
 #nacos/nacos-server:v3.0.1
 #postgres:16.16
 #postgres:18.7
-openjdk:8u342-jre-slim-buster-linuxarm64
-openjdk17:bookworm-slim
-openjdk21-alpine:latest
+openjdk8:latest
+openjdk17:latest
+openjdk21:latest
